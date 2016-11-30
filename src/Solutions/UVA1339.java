@@ -1,9 +1,9 @@
-package UVA1339;
+package Solutions;
 
 import java.util.Arrays;
 import java.util.Scanner;
 
-public class Main {
+public class UVA1339 {
 
 	public static void main(String[] args) {
 		Scanner reader = new Scanner(System.in);

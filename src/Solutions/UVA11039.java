@@ -1,10 +1,10 @@
-package UVA11039;
+package Solutions;
 
 import java.util.ArrayList;
 import java.util.List;
 import java.util.Scanner;
 
-public class Main {
+public class UVA11039 {
 
 	public static void main(String[] args) {
 		Scanner reader = new Scanner(System.in);
