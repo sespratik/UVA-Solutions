@@ -1,6 +1,7 @@
-*.iml
 *.class
 bin/*
 bin/Solutions/*
 .idea/
 bin/
+*.iml
+*.xml
