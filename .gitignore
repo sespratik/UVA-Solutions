@@ -1,6 +1,7 @@
 *.iml
-*.class
-bin/*
-bin/Solutions/*
+.settings/
 .idea/
 bin/
+.classpath
+.project
+
